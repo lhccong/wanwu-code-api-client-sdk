@@ -1,0 +1,2 @@
+# springboot starter
+org.springframework.boot.autoconfigure.EnableAutoConfiguration =com.cong.wanwu.api.client.sdk.CongApiClientConfig
